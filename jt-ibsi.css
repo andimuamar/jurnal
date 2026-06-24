@@ -477,6 +477,10 @@ ul.sidemenu li a:hover {
   margin: -12px -12px 0px -12px;
 }
 
+#customblock-menusidebar{
+  padding:0px;
+}
+
 .block_information {
   margin: -12px -12px 12px -12px;
 }
